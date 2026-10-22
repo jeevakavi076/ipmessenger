@@ -1,0 +1,14 @@
+
+{
+  "name": "office-messenger-desktop",
+  "version": "1.0.0",
+  "description": "Classic-style Office LAN Messenger",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
